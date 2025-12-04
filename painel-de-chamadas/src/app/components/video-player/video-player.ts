@@ -19,7 +19,7 @@ export class VideoPlayer implements AfterViewInit {
 
   initPlayer(): void {
     // O ID do vídeo do QuarkClinic
-    const videoId = 'WdxYgjjPSjg';
+    const videoId = 'KJdZmKETV8I';
 
     this.player = new YT.Player('youtube-player', {
       height: '100%',
